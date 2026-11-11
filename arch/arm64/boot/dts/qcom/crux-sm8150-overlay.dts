@@ -19,8 +19,8 @@
 #include <dt-bindings/clock/qcom,rpmh.h>
 #include <dt-bindings/interrupt-controller/arm-gic.h>
 
-#include "xiaomi/overlay/crux/crux-sm8150.dtsi"
-#include "xiaomi/overlay/crux/crux-audio-overlay.dtsi"
+#include "crux-sm8150.dtsi"
+#include "crux-audio-overlay.dtsi"
 #include "sdx5xm-external-soc.dtsi"
 #include "sm8150-sdx50m.dtsi"
 
